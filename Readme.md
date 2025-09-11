@@ -62,4 +62,3 @@ This project is released for **educational and research use**. Please check the 
 
 ---
 
-👉 Would you like me to also add a **diagram of the workflow (FASTQ → BAM → VCF → Annotation)** in the README, or keep it purely text-based?
