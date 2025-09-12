@@ -4,6 +4,10 @@ This repository provides a **step-by-step pipeline** for variant discovery and f
 The workflow starts from reference genome setup and raw reads QC, and ends with **annotated variants** ready for downstream analysis.
 
 ---
+<img width="1979" height="1580" alt="image" src="https://github.com/user-attachments/assets/b0b84845-4095-4ad9-bb55-728e5502d5d3" />
+
+
+
 
 ## 📂 Repository Structure
 
